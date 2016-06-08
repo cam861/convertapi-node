@@ -12,7 +12,12 @@
   },
   "keywords": [
     "convertapi",
-    "doc2pdf"
+    "doc2pdf",
+    "docx2pdf",
+    "word2pdf",
+    "word2image",
+    "doc2image",
+    "docx2image"
   ],
   "author": "CNS Cloud",
   "license": "MIT",
@@ -21,6 +26,7 @@
   },
   "homepage": "https://github.com/cam861/convertapi-node#readme",
   "dependencies": {
+    "lodash": "^4.13.1",
     "unirest": "^0.5.0"
   }
 }
